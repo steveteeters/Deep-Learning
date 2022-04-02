@@ -37,6 +37,6 @@
 ![Screen Shot 2022-04-02 at 11 53 30 AM](https://user-images.githubusercontent.com/95944553/161393144-0c10d294-7b59-48c7-8075-958dbc37f981.png)
 ![Screen Shot 2022-04-02 at 11 53 58 AM](https://user-images.githubusercontent.com/95944553/161393160-9f9ca6ea-bede-4cb6-b775-660458623631.png)
 
-#### ***
+#### ***The 5 day Window for the Closing model appears to have the best results over time compared to the actual results***
 
 
