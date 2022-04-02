@@ -7,7 +7,7 @@
 #### Predictor FNG
 ![Screen Shot 2022-04-02 at 11 23 55 AM](https://user-images.githubusercontent.com/95944553/161392070-b5a5bd2c-8ad2-4cd0-b02d-f54b0c1a8ec7.png)
 
-#### **The model for Closing has the lower loss as seen above in the model evaluations above.**
+#### ***The model for Closing has the lower loss as seen above in the model evaluations above.***
 
 
 ## Which model tracks the actual values better over time?
@@ -17,7 +17,7 @@
 #### Predictor FNG
 ![Screen Shot 2022-04-02 at 11 35 27 AM](https://user-images.githubusercontent.com/95944553/161392481-d5a5fa1e-7e34-46ff-9e46-e80cfe7e8e1a.png)
 
-#### **The model for the FNG tracks the perforance better over time. See graphs above.**
+#### ***The model for the FNG tracks the perforance better over time. See graphs above.***
 
 
 ## Which window size works best for the model?
@@ -36,5 +36,7 @@
 #### Predictor Closing - Window 10
 ![Screen Shot 2022-04-02 at 11 53 30 AM](https://user-images.githubusercontent.com/95944553/161393144-0c10d294-7b59-48c7-8075-958dbc37f981.png)
 ![Screen Shot 2022-04-02 at 11 53 58 AM](https://user-images.githubusercontent.com/95944553/161393160-9f9ca6ea-bede-4cb6-b775-660458623631.png)
+
+#### ***
 
 
