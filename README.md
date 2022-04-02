@@ -1,6 +1,6 @@
 # Deep-Learning
 
-### ***Above you will find the ipymb Jupyter notebooks labeled ltsm_stock_predictor_closing and ltsm_stock_predictor_fng. These files have the code that was used to evalute the closing and fng datasets referred to in the questions below.
+### ***Above you will find the ipymb Jupyter notebooks labeled ltsm_stock_predictor_closing and ltsm_stock_predictor_fng. These files have the code that was used to evalute the closing and fng datasets referred to in the questions below.***
 
 ## Which model has a lower loss?
 ##### Predictor Closing
